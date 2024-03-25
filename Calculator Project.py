@@ -1,6 +1,5 @@
 from Calc_art import logo
 
-
 def add(n1, n2): 
     """Addition operation"""
     return n1 + n2
